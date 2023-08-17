@@ -1,0 +1,246 @@
+@media (max-width: 576px) {
+    .nav-1 {
+        position: relative;
+    }
+
+    .logo1 {
+        padding-right: 60vw;
+    }
+
+    .H1 {
+        display: none;
+    }
+
+    .A1 {
+        display: none;
+    }
+
+    .M1 {
+        display: none;
+    }
+
+    .B1 {
+        display: none;
+    }
+
+    .S1 {
+        display: none;
+    }
+
+    .C1 {
+        display: none;
+    }
+
+    .i1 {
+        height: 200px;
+    }
+
+    .menu {
+        display: block;
+        color: white;
+        font-size: 25px;
+    }
+
+    .menu-bar {
+        display: none;
+    }
+
+    .menu:hover .menu-bar {
+        display: block;
+        position: absolute;
+        margin-top: 40px;
+        background-color: rgb(26, 25, 25);
+        color: aliceblue;
+        border-radius: 5px;
+    }
+
+    .b2 {
+        font-size: 15px;
+        width: 17vw;
+    }
+
+    .est-1962 {
+        flex-wrap: wrap;
+    }
+
+    .i1 {
+        margin-left: 130px;
+    }
+
+    .text {
+        font-size: 20px;
+        padding-left: 40vw;
+        margin-left: -150px;
+        margin-top: 50px;
+    }
+
+    u {
+        font-size: 18.5px;
+    }
+
+    #b1 {
+        width: 50%;
+        margin-left: -5px;
+    }
+
+    .coffee {
+        flex-wrap: wrap;
+    }
+
+    #col-2 {
+        width: 800px;
+        padding-top: -50px;
+    }
+
+    .text1 {
+        font-size: 30px;
+        margin-bottom: 120px;
+    }
+
+    .text3 {
+        margin-left: -30px;
+    }
+
+    #para {
+        padding-left: 15px;
+        margin-left: 60px;
+        font-size: 18px;
+    }
+
+    .design {
+        margin-top: 50px;
+        margin-bottom: 750px;
+        display: inline-block;
+        margin-top: -50px;
+    }
+
+    .allimg {
+        background-color: #b13941;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .i2 {
+        width: 175px;
+    }
+    .img1{
+        margin-bottom: 30px;
+        padding-right: 80px;
+    }
+
+    .main-box {
+        flex-direction: column;
+        margin-left: 30%;
+    } 
+
+    .img2 {
+        width: 250px;
+    }
+
+    .border {
+        font-size: 12px;
+        text-align: center;
+        padding-left: 1px;
+    }
+
+    .btn {
+        margin-left: 80px;
+    }
+
+    .t1 {
+        width: 250px;
+    }
+
+    .p5 {
+        font-size: 15px;
+    }
+
+    .b4 {
+        margin-left: 70px;
+    }
+
+    .para2 {
+        font-size: 20px;
+        padding-left: 70px;
+        padding-right: 50px;
+    }
+
+    .video {
+        flex-wrap: wrap;
+        width: 100%;
+        margin-left: 18%;
+        margin-right: 30%;
+    }
+
+    h4 {
+        font-size: 30px;
+        margin-left: -35px;
+        padding-top: 50px;
+    }
+
+    .para01 {
+        font-size: 21px;
+        margin-left: -150px;
+        width: 110%;
+        padding-top: 30px;
+        text-align: start;
+    }
+
+    .f1,
+    .I1,
+    .T1 {
+        padding-top: 50px;
+    }
+
+    .map {
+        flex-wrap: wrap;
+    }
+
+    b {
+        padding-left: 100px;
+    }
+
+    .form {
+        background-color: rgb(241, 223, 191);
+        width: 100%;
+    }
+
+    #name,
+    #gender,
+    #msg {
+        margin-left: 100px;
+    }
+
+    .b6 {
+        margin-left: 100px;
+    }
+
+    .page8 {
+        flex-wrap: wrap;
+        margin-bottom: 150px;
+    }
+
+    .img1 {
+        padding-left: 180px;
+    }
+
+    b {
+        padding-left: 10px;
+    }
+
+    .add {
+        padding-left: 10px;
+    }
+
+    .foot2 {
+        padding-left: 120px;
+    }
+
+    .Sites {
+        padding-left: 10px;
+    }
+
+    .logo {
+        padding-left: 150px;
+    }
+}
