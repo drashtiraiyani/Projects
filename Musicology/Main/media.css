@@ -1,0 +1,83 @@
+@media (max-width: 576px) {
+
+    .h1,
+    .pr,
+    .pa,
+    .abt,
+    .c1 {
+        display: none;
+    }
+
+    .menu {
+        padding-top: 35px;
+        display: block;
+        color: white;
+        margin-left: -180px;
+    }
+
+    .menu-bar {
+        display: none;
+    }
+
+    .menu:hover .menu-bar {
+        display: block;
+        position: absolute;
+        top: 55px;
+        border-radius: 2px;
+        line-height: 25px;
+        margin-top: 30px;
+        background-color: #303030;
+        padding: 25px;
+    }
+
+    a:hover {
+        color: black;
+        text-transform: uppercase;
+    }
+
+    a {
+        color: white;
+        text-decoration: none;
+    }
+
+    .logo2 {
+        margin-bottom: 30px;
+        padding-left: 180px;
+    }
+
+    .title {
+        margin-bottom: 50px;
+    }
+
+    h1 {
+        padding-left: 30px;
+    }
+
+    .paragraph {
+        width: 250%;
+        margin-left: 40px;
+        margin-top: 23px;
+    }
+
+    #register {
+        margin-left: 40px;
+        margin-top: 23px;
+    }
+
+    p {
+        width: 400px;
+        text-align: center;
+        margin-left: -270px;
+    }
+
+    .row {
+        flex-wrap: wrap;
+        margin-left: 50px;
+        gap: 45px;
+    }
+
+    .col-33 {
+        width: 96.4%;
+    }
+
+}
