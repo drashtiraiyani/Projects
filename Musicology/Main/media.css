@@ -1,4 +1,5 @@
 @media (max-width: 576px) {
+
     .h1,
     .pr,
     .pa,
@@ -70,12 +71,172 @@
     }
 
     .row {
-        flex-wrap: wrap;
+        flex-direction: column;
         margin-left: 50px;
         gap: 45px;
     }
 
-    .col-33 {
-        width: 96.4%;
+    h3 {
+        width: 212%;
+    }
+
+    #paragraph {
+        width: 212%;
+    }
+
+    .price2 {
+        margin-left: 350px;
+    }
+
+    .page2 {
+        display: flex;
+    }
+
+    .colour {
+        margin: 0 auto;
+    }
+
+    .icon {
+        margin-left: -120px;
+    }
+
+    #basic1 {
+        margin-left: -30px;
+        font-size: 20px;
+    }
+
+    #basic2 {
+        margin-left: -30px;
+        font-size: 20px;
+    }
+
+    #basic3 {
+        margin-left: -30px;
+        font-size: 20px;
+    }
+
+    #para3 {
+        font-size: 15px;
+        width: 80%;
+        margin-left: 20px;
+        text-align: start;
+    }
+
+    .button {
+        width: 80%;
+        margin-left: 10px;
+    }
+
+    .page3 {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .text1 {
+        margin-top: 100px;
+        padding: 50px;
+        margin-left: 70px;
+    }
+
+    .para4 {
+        padding-left: 30px;
+        margin-left: -80px;
+    }
+
+    .b1 {
+        width: 80%;
+    }
+
+    .page4 {
+        flex-direction: column;
+        margin-top: -80px;
+    }
+
+    .text2 {
+        margin-top: 250px;
+        padding-left: 50px;
+        margin-left: 90px;
+    }
+
+    .para5 {
+        margin-left: -50px;
+    }
+
+    .b2 {
+        width: 100%;
+    }
+
+    .photo {
+        width: 576px;
+    }
+
+    .para6 {
+        margin-left: 50px;
+        width: 80%;
+    }
+
+    .num-text {
+        flex-direction: column;
+    }
+
+    .num-1 {
+        margin-left: -150px;
+    }
+
+    .p1 {
+        margin-left: -30px;
+    }
+
+    .texts {
+        margin-top: -250px;
+        font-size: 25px;
+        margin-left: -50px;
+    }
+
+    .text01 {
+        font-size: 35px;
+        margin-top: -50px;
+        margin-left: -21px;
+    }
+
+    .para7 {
+        margin-left: 50px;
+        width: 80%;
+    }
+
+    #name {
+        margin-left: 50px;
+        width: 50%;
+    }
+
+    .footer {
+        flex-direction: column;
+    }
+
+    .main-text1 {
+        font-size: 50px;
+    }
+
+    .para8 {
+        font-size: 23px;
+    }
+
+    #abt {
+        margin-left: -250px;
+        width: 50px;
+        font-size: 50px;
+        padding-left: 420px;
+    }
+
+    .ul-1 {
+        text-align: start;
+        margin-left: 180px;
+        font-size: 23px;
+    }
+
+    .ul-2 {
+        text-align: start;
+        margin-left: 180px;
+        font-size: 23px;
     }
 }
