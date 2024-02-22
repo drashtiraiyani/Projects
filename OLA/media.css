@@ -250,7 +250,7 @@
 
 /*  Small devices (landscape phones, less than 768px)  */
 @media (max-width: 767.98px) {
-    /* .nav1>ul>li
+     .nav1>ul>li
     {
         display: none;
     }
@@ -273,7 +273,7 @@
     .logo1
     {
         margin-right: 100px;
-    } */
+    } 
 }
 
 /* // X-Small devices (portrait phones, less than 576px) */

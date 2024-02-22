@@ -1,0 +1,27 @@
+@media (max-width: 375px) {
+    h1 {
+        font-size: 26px;
+    }
+
+    .ul-01 {
+        gap: 10px;
+        font-size: 15px;
+    }
+
+    .main-box {
+        flex-direction: column-reverse;
+    }
+}
+
+@media (max-width: 414px) {
+    .main-box {
+        margin-left: 20px;
+    }
+}
+
+@media (max-width: 390px)
+{
+    .main-box{
+        margin-left: 25px;
+    }
+}
